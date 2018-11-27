@@ -46,7 +46,7 @@ h1 {
   text-align: right;
   font-size: 60px;
   height: 75px;
-  width: 355px;
+  width: 330px;
 /*
   top: -530px;
   left: 460px; 
@@ -64,7 +64,7 @@ h1 {
   cursor: pointer;
   position: relative;
   height: 40px;
-  width: 65px; 
+  width: 60px; 
 }
 
 .black_btn {
@@ -78,7 +78,7 @@ h1 {
   cursor: pointer;
   position: relative;
   height: 40px;
-  width: 65px; }
+  width: 60px; }
 
 .orange_btn {
   background-color: orange;
@@ -91,7 +91,7 @@ h1 {
   cursor: pointer;
   position: relative;
   height: 40px;
-  width: 65px; }
+  width: 60px; }
 
 .pink_btn {
   color: white;
@@ -104,7 +104,7 @@ h1 {
   cursor: pointer;
   position: relative;
   height: 40px;
-  width: 65px; }
+  width: 60px; }
 
 .footerclass{
     text-align: center;
